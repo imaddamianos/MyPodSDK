@@ -6,6 +6,5 @@ target 'MyFirebaseSDK' do
   use_frameworks!
 
   # Pods for MyFirebaseSDK]
-pod 'MyFirebaseSDK', :git => 'https://github.com/imaddamianos/MyPodSDK.git'
 
 end
